@@ -3,7 +3,7 @@
     src: url('Gilroy-Black.woff2') format('woff2'),
          url('Gilroy-Black.woff') format('woff'),
          url('Gilroy-Black.ttf') format('ttf'),
-         url(Gilroy-Black.eot) format('eot');
+         url('Gilroy-Black.eot') format('eot');
     font-weight: 200;
     font-style: black;
 }
@@ -12,7 +12,7 @@
     src: url('Gilroy-BlackItalic.woff2') format('woff2'),
          url('Gilroy-BlackItalic.woff') format('woff'),
          url('Gilroy-BlackItalic.ttf') format('ttf'),
-         url(Gilroy-BlackItalic.eot) format('eot');
+         url('Gilroy-BlackItalic.eot') format('eot');
     font-weight: 200;
     font-style: blackitalic;
 }
@@ -21,7 +21,7 @@
     src: url('Gilroy-Bold.woff2') format('woff2'),
          url('Gilroy-Bold.woff') format('woff'),
          url('Gilroy-Bold.ttf') format('ttf'),
-         url(Gilroy-Bold.eot) format('eot');
+         url('Gilroy-Bold.eot') format('eot');
     font-weight: 400;
     font-style: bold;
 }
@@ -30,7 +30,7 @@
     src: url('Gilroy-BoldItalic.woff2') format('woff2'),
          url('Gilroy-BoldItalic.woff') format('woff'),
          url('Gilroy-BoldItalic.ttf') format('ttf'),
-         url(Gilroy-BoldItalic.eot) format('eot');
+         url('Gilroy-BoldItalic.eot') format('eot');
     font-weight: 400;
     font-style: bolditalic;
 }
@@ -39,7 +39,7 @@
     src: url('Gilroy-ExtraBold.woff2') format('woff2'),
          url('Gilroy-ExtraBold.woff') format('woff'),
          url('Gilroy-ExtraBold.ttf') format('ttf'),
-         url(Gilroy-ExtraBold.eot) format('eot');
+         url('Gilroy-ExtraBold.eot') format('eot');
     font-weight: 600;
     font-style: extrabold;
 }
@@ -48,7 +48,7 @@
     src: url('Gilroy-ExtraBoldItalic.woff2') format('woff2'),
          url('Gilroy-ExtraBoldItalic.woff') format('woff'),
          url('Gilroy-ExtraBoldItalic.ttf') format('ttf'),
-         url(Gilroy-ExtraBoldItalic.eot) format('eot');
+         url('Gilroy-ExtraBoldItalic.eot') format('eot');
     font-weight: 600;
     font-style: extrabolditalic;
 }
@@ -57,7 +57,7 @@
     src: url('Gilroy-Heavy.woff2') format('woff2'),
          url('Gilroy-Heavy.woff') format('woff'),
          url('Gilroy-Heavy.ttf') format('ttf'),
-         url(Gilroy-Heavy.eot) format('eot');
+         url('Gilroy-Heavy.eot') format('eot');
     font-weight: 500;
     font-style: heavy;
 }
@@ -66,7 +66,7 @@
     src: url('Gilroy-HeavyItalic.woff2') format('woff2'),
          url('Gilroy-HeavyItalic.woff') format('woff'),
          url('Gilroy-HeavyItalic.ttf') format('ttf'),
-         url(Gilroy-HeavyItalic.eot) format('eot');
+         url('Gilroy-HeavyItalic.eot') format('eot');
     font-weight: 500;
     font-style: heavyitalic;
 }
@@ -75,7 +75,7 @@
     src: url('Gilroy-Light.woff2') format('woff2'),
          url('Gilroy-Light.woff') format('woff'),
          url('Gilroy-Light.ttf') format('ttf'),
-         url(Gilroy-Light.eot) format('eot');
+         url('Gilroy-Light.eot') format('eot');
     font-weight: 100;
     font-style: light;
 }
@@ -84,7 +84,7 @@
     src: url('Gilroy-LightItalic.woff2') format('woff2'),
          url('Gilroy-LightItalic.woff') format('woff'),
          url('Gilroy-LightItalic.ttf') format('ttf'),
-         url(Gilroy-LightItalic.eot) format('eot');
+         url('Gilroy-LightItalic.eot') format('eot');
     font-weight: 100;
     font-style: lightitalic;
 }
@@ -93,7 +93,7 @@
     src: url('Gilroy-Medium.woff2') format('woff2'),
          url('Gilroy-Medium.woff') format('woff'),
          url('Gilroy-Medium.ttf') format('ttf'),
-         url(Gilroy-Medium.eot) format('eot');
+         url('Gilroy-Medium.eot') format('eot');
     font-weight: 200;
     font-style: medium;
 }
@@ -102,7 +102,7 @@
     src: url('Gilroy-MediumItalic.woff2') format('woff2'),
          url('Gilroy-MediumItalic.woff') format('woff'),
          url('Gilroy-MediumItalic.ttf') format('ttf'),
-         url(Gilroy-MediumItalic.eot) format('eot');
+         url('Gilroy-MediumItalic.eot') format('eot');
     font-weight: 200;
     font-style: mediumitalic;
 }
@@ -111,7 +111,7 @@
     src: url('Gilroy-Regular.woff2') format('woff2'),
          url('Gilroy-Regular.woff') format('woff'),
          url('Gilroy-Regular.ttf') format('ttf'),
-         url(Gilroy-Regular.eot) format('eot');
+         url('Gilroy-Regular.eot') format('eot');
     font-weight: 200;
     font-style: regular;
 }
@@ -120,7 +120,7 @@
     src: url('Gilroy-RegularItalic.woff2') format('woff2'),
          url('Gilroy-RegularItalic.woff') format('woff'),
          url('Gilroy-RegularItalic.ttf') format('ttf'),
-         url(Gilroy-RegularItalic.eot) format('eot');
+         url('Gilroy-RegularItalic.eot') format('eot');
     font-weight: 200;
     font-style: regularitalic;
 }
@@ -129,7 +129,7 @@
     src: url('Gilroy-SemiBold.woff2') format('woff2'),
          url('Gilroy-SemiBold.woff') format('woff'),
          url('Gilroy-SemiBold.ttf') format('ttf'),
-         url(Gilroy-SemiBold.eot) format('eot');
+         url('Gilroy-SemiBold.eot') format('eot');
     font-weight: 300;
     font-style: semibold;
 }
@@ -138,7 +138,7 @@
     src: url('Gilroy-SemiBoldItalic.woff2') format('woff2'),
          url('Gilroy-SemiBoldItalic.woff') format('woff'),
          url('Gilroy-SemiBoldItalic.ttf') format('ttf'),
-         url(Gilroy-SemiBoldItalic.eot) format('eot');
+         url('Gilroy-SemiBoldItalic.eot') format('eot');
     font-weight: 300;
     font-style: semibolditalic;
 }
@@ -147,7 +147,7 @@
     src: url('Gilroy-Thin.woff2') format('woff2'),
          url('Gilroy-Thin.woff') format('woff'),
          url('Gilroy-Thin.ttf') format('ttf'),
-         url(Gilroy-Thin.eot) format('eot');
+         url('Gilroy-Thin.eot') format('eot');
     font-weight: 100;
     font-style: thin;
 }
@@ -156,7 +156,7 @@
     src: url('Gilroy-ThinItalic.woff2') format('woff2'),
          url('Gilroy-ThinItalic.woff') format('woff'),
          url('Gilroy-ThinItalic.ttf') format('ttf'),
-         url(Gilroy-ThinItalic.eot) format('eot');
+         url('Gilroy-ThinItalic.eot') format('eot');
     font-weight: 100;
     font-style: thinitalic;
 }
@@ -165,7 +165,7 @@
     src: url('Gilroy-UltraLight.woff2') format('woff2'),
          url('Gilroy-UltraLight.woff') format('woff'),
          url('Gilroy-UltraLight.ttf') format('ttf'),
-         url(Gilroy-UltraLight.eot) format('eot');
+         url('Gilroy-UltraLight.eot') format('eot');
     font-weight: 100;
     font-style: ultralight;
 }
@@ -174,7 +174,7 @@
     src: url('Gilroy-UltraLightItalic.woff2') format('woff2'),
          url('Gilroy-UltraLightItalic.woff') format('woff'),
          url('Gilroy-UltraLightItalic.ttf') format('ttf'),
-         url(Gilroy-UltraLightItalic.eot) format('eot');
+         url('Gilroy-UltraLightItalic.eot') format('eot');
     font-weight: 100;
     font-style: ultralightitalic;
 }
